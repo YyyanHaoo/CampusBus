@@ -11,8 +11,7 @@
 物理模型：
 ![image](https://user-images.githubusercontent.com/49344843/122563227-8883f600-d076-11eb-91c1-84a1224c7ed2.png)
 
-用例图：
+简要用例图：
 ![image](https://user-images.githubusercontent.com/49344843/122563315-a18ca700-d076-11eb-8965-770572e97366.png)
-![image](https://user-images.githubusercontent.com/49344843/122563326-a5b8c480-d076-11eb-8fb1-1535d3afcb0d.png)
 
-用户可通过
+可通过客户端.mp4, 服务器端.mp4, 巴士端.mp4查看对应的demo. 

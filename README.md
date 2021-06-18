@@ -7,4 +7,12 @@
 3. 提供站点导航服务，根据用户位置以及候车站点为用户规划最短路线；
 4. 定位用户位置，根据目的地以及出行方式，推荐用户何时出发最为合适，到何处候车更为合理；
 5. 后台服务器保存人员乘车记录。
-![image](https://user-images.githubusercontent.com/49344843/122563097-612d2900-d076-11eb-8a2b-8a18081ac7b2.png)
+
+物理模型：
+![image](https://user-images.githubusercontent.com/49344843/122563227-8883f600-d076-11eb-91c1-84a1224c7ed2.png)
+
+用例图：
+![image](https://user-images.githubusercontent.com/49344843/122563315-a18ca700-d076-11eb-8965-770572e97366.png)
+![image](https://user-images.githubusercontent.com/49344843/122563326-a5b8c480-d076-11eb-8fb1-1535d3afcb0d.png)
+
+用户可通过

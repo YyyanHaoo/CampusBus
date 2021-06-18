@@ -9,9 +9,11 @@
 5. 后台服务器保存人员乘车记录。
 
 物理模型：
+
 ![image](https://user-images.githubusercontent.com/49344843/122563227-8883f600-d076-11eb-91c1-84a1224c7ed2.png)
 
 简要用例图：
+
 ![image](https://user-images.githubusercontent.com/49344843/122563315-a18ca700-d076-11eb-8965-770572e97366.png)
 
 可通过客户端.mp4, 服务器端.mp4, 巴士端.mp4查看对应的demo. 

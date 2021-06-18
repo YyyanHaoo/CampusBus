@@ -8,6 +8,10 @@
 4. 定位用户位置，根据目的地以及出行方式，推荐用户何时出发最为合适，到何处候车更为合理；
 5. 后台服务器保存人员乘车记录。
 
+项目海报：
+
+![poster](https://user-images.githubusercontent.com/49344843/122567039-d1d64480-d07a-11eb-8047-66952c17d6b4.png)
+
 物理模型：
 
 ![image](https://user-images.githubusercontent.com/49344843/122563227-8883f600-d076-11eb-91c1-84a1224c7ed2.png)
